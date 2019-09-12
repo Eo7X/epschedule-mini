@@ -1,0 +1,34 @@
+iframe {
+	border: none;
+	overflow: hidden;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.textcenter {
+	font-family: "Google Sans", "arial";
+	text-align: center;
+	margin: 0 auto;
+	width: 450px;
+	display: inline-block;	
+	text-decoration: none;
+
+}
+
+a:link{
+	color: #706ecc;
+}
+
+a:hover{
+	color: #b7bdba;
+}
+
+#bufferdiv{
+	height: 4px;
+}
+
+body{
+	body{margin:0px !important;}
+}
